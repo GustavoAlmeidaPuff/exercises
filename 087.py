@@ -1,6 +1,3 @@
-
-
 # ## 087
 #
 # ### Aprimore o desafio anterior, mostrando no final:
-
