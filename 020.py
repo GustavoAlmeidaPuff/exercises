@@ -4,8 +4,8 @@
 
 import random
 
-alunos = ['João', 'Maria', 'Pedro', 'Ana']
+alunos = ['João', 'Maria', 'Pedro', 'Ana'] # lista de alunos
 
-ordem = random.shuffle(alunos)
+ordem = random.shuffle(alunos) # embaralha a lista de alunos usando a função shuffle da biblioteca random
 
-print(f'A ordem de apresentação é: {ordem}')
+print(f'A ordem de apresentação é: {ordem}') # exibe a ordem de apresentação usando a função format da biblioteca random
