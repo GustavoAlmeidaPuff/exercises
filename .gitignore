@@ -640,5 +640,7 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
+# Cursor IDE
+.cursorrules/
 
 # End of https://mrkandreev.name/snippets/gitignore-generator/#vs,jspm,Node,Dart,Python,ts
